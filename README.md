@@ -3,12 +3,6 @@
 Shopping Cart
 This project is a simple implementation of a shopping cart in JavaScript.
 
-Getting Started
-Clone the repository: git clone https://github.com/example/example.git
-Navigate to the project directory: cd example
-Install dependencies: npm install
-Start the development server: npm start
-Usage
 This shopping cart allows users to add products to a cart, increase or decrease the quantity of items in the cart, remove items from the cart, and calculate the total cost of the items in the cart.
 
 Products
